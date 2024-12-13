@@ -16,7 +16,7 @@ header{
 header h1{
     font-size: 40px;
     background:linear-gradient(rgb(108, 211, 255), rgb(14, 85, 136));
-    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
     text-transform: uppercase;
     font-weight: 900;
